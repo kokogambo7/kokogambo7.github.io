@@ -1,4 +1,4 @@
 # Андрей Окоча
 Мои домашние задания
 
-[Урок 12](https://kokogambo7.github.io/lessons_12/ "Моя первая домашка")
+[Урок 12](https://kokogambo7.github.io/lessons_12/ "Моя первая домашка") - работа с репозиторием на GitHub
