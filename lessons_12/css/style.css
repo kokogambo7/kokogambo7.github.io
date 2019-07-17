@@ -1,0 +1,63 @@
+span {
+	display: block;
+}
+.section {
+	padding: 30px auto;
+}
+
+.header {
+	font-size: 24px;
+	font-family: Tahoma;
+	line-height: 1.5;
+	margin: 60px auto;
+}
+
+.form-header {
+	font-size: 20px;
+	font-weight: 900;
+}
+ .form {
+ padding: 35px 20px;
+	border: 5px solid #2727d9;
+}
+
+.form-control {
+	margin-bottom: 10px;
+}
+.form-btn {
+	background-color: #2727d9;
+	padding: 12px auto;
+	margin-bottom: 20px;
+}
+.section-header {
+	margin-top: 150px;
+	font-size: 20px;
+	font-weight: 900;
+}
+
+.feature {
+	margin: 85px auto;
+}
+
+.feature p {
+	margin-top: 15px;
+	font-size: 16px;
+	font-weight: 900;
+}
+
+.photo-header {
+	margin: 80px auto;
+}
+
+.photo img {
+	margin-bottom: 30px;
+}
+.video {
+	margin-bottom: 30px;
+}
+
+.feature-box img {
+	height: 100px;
+}
+
+blabla: ;
