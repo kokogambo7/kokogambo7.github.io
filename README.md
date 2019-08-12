@@ -9,4 +9,7 @@
 
 [Урок 13](https://kokogambo7.github.io/lesson_13/ "Верстка Pixel Perfect") - верстка Pixel Perfect
 
+[Урок 14](https://kokogambo7.github.io/lessons%2014/ "Прктическое занятие. Создание шакпи") -  Создание шапки. "Гипсолит"
+
+
 
