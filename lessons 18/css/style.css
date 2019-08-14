@@ -1,0 +1,52 @@
+@font-face {
+    font-family: '7fonts_ru_BEBAS';
+    src: url('../fonts/7fonts_ru_BEBAS.eot');
+    src: url('../fonts/7fonts_ru_BEBAS.eot') format('embedded-opentype'),
+         url('../fonts/7fonts_ru_BEBAS.woff2') format('woff2'),
+         url('../fonts/7fonts_ru_BEBAS.woff') format('woff'),
+         url('../fonts/7fonts_ru_BEBAS.ttf') format('truetype'),
+         url('../fonts/7fonts_ru_BEBAS.svg#7fonts_ru_BEBAS') format('svg');
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Bold.eot');
+    src: url('../fonts/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Bold.woff2') format('woff2'),
+        url('../fonts/Lato-Bold.woff') format('woff'),
+        url('../fonts/Lato-Bold.ttf') format('truetype'),
+        url('../fonts/Lato-Bold.svg#Lato-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+.text-box {
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+
+.sentence1 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.sentence2 {
+	font-family: '7fonts_ru_BEBAS', sans-serif;
+}
+
+.sentence3 {
+	font-family: 'Lato', sans-serif;
+}
+.sentence4 {
+	font-family: 'Lobster', cursive;
+}
