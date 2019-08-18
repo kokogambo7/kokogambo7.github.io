@@ -13,5 +13,7 @@
 
 [Урок 15](https://kokogambo7.github.io/lessons%2018/ "Шрифты") -  Шрифты
 
+[Урок 16](https://kokogambo7.github.io/lessons_19/ "Первый блок сайта") -  Создания первого блока сайта. Гипсолит
+
 
 
