@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico">
+    <title>Всплывающие окна</title>
+    <!-- Bootstrap core CSS -->
+    <link href="css/style.css" rel="stylesheet">
+    <!-- Подключаю стили от bootstrap -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+  	<div class="container">
+  		<button class="btn btn-success" data-toggle="modal" data-target="#my-modal">Удалить файлы</button>
+  	</div>
+
+  	<div class="modal fade" id="my-modal">
+  	  <div class="modal-dialog">
+  	    <div class="modal-content">
+  	      <div class="modal-header">
+  	        <h3 class="modal-title">Вы действительно хотите удалить файл?</h3>
+  	        <div class="closer">
+  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+  	        </div>
+  	      </div>
+  	      <div class="modal-body">
+  	        <p><button class="yes">Да</button> <button class="no">Нет</button></p>
+  	      </div>
+  	      <!-- <div class="modal-footer">
+  	        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+  	        <button type="button" class="btn btn-primary">Save changes</button>
+  	      </div> -->
+  	    </div><!-- /.modal-content -->
+  	  </div><!-- /.modal-dialog -->
+  	</div><!-- /.modal -->
+
+
+   
+     <!-- Подкоючаем библиотеку JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"> </script>
+    <!-- подключаем js-файлы -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"> </script>
+  </body>
+</html>
+			
